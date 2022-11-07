@@ -132,6 +132,32 @@ h2{
     text-align: center;
     
 }
+.act{
+    background-color: rgb(218, 96, 96);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15% 0%;
+}
+.bbb{
+    color: #000;
+    background-color: rgb(255, 255, 255);
+    
+}
+.bbb:hover{
+    color: rgb(255, 255, 255);
+    background-color: #000;
+}
+.bbd{
+    color: rgb(255, 255, 255);
+    background-color: #000;
+}
+.bbd:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+.icon{
+    padding: 0% 40%;
+}
 @media (max-width:1200px){
     #ig{
         
